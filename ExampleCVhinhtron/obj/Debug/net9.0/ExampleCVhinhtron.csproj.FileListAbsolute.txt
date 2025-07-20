@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\bin\Debug\net9.0\ExampleCVhinhtron.exe
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\bin\Debug\net9.0\ExampleCVhinhtron.deps.json
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\bin\Debug\net9.0\ExampleCVhinhtron.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\bin\Debug\net9.0\ExampleCVhinhtron.dll
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\bin\Debug\net9.0\ExampleCVhinhtron.pdb
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\ExampleCVhinhtron.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\ExampleCVhinhtron.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\ExampleCVhinhtron.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\ExampleCVhinhtron.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\ExampleCVhinhtron.sourcelink.json
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\ExampleCVhinhtron.dll
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\refint\ExampleCVhinhtron.dll
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\ExampleCVhinhtron.pdb
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\ExampleCVhinhtron.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\ExampleCVhinhtron\obj\Debug\net9.0\ref\ExampleCVhinhtron.dll

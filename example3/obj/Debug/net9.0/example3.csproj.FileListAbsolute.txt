@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\example3\bin\Debug\net9.0\example3.exe
+D:\BAITAP\EXAMPLE\example\example3\bin\Debug\net9.0\example3.deps.json
+D:\BAITAP\EXAMPLE\example\example3\bin\Debug\net9.0\example3.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\example3\bin\Debug\net9.0\example3.dll
+D:\BAITAP\EXAMPLE\example\example3\bin\Debug\net9.0\example3.pdb
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\example3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\example3.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\example3.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\example3.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\example3.sourcelink.json
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\example3.dll
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\refint\example3.dll
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\example3.pdb
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\example3.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\example3\obj\Debug\net9.0\ref\example3.dll

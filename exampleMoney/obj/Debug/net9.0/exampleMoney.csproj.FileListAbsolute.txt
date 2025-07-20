@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\exampleMoney\bin\Debug\net9.0\exampleMoney.exe
+D:\BAITAP\EXAMPLE\example\exampleMoney\bin\Debug\net9.0\exampleMoney.deps.json
+D:\BAITAP\EXAMPLE\example\exampleMoney\bin\Debug\net9.0\exampleMoney.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\exampleMoney\bin\Debug\net9.0\exampleMoney.dll
+D:\BAITAP\EXAMPLE\example\exampleMoney\bin\Debug\net9.0\exampleMoney.pdb
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\exampleMoney.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\exampleMoney.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\exampleMoney.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\exampleMoney.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\exampleMoney.sourcelink.json
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\exampleMoney.dll
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\refint\exampleMoney.dll
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\exampleMoney.pdb
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\exampleMoney.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\exampleMoney\obj\Debug\net9.0\ref\exampleMoney.dll

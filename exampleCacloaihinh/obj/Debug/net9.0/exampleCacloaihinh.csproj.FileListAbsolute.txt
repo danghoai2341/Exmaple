@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\exampleCacloaihinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\exampleCacloaihinh.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\exampleCacloaihinh.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\exampleCacloaihinh.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\exampleCacloaihinh.sourcelink.json
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\bin\Debug\net9.0\exampleCacloaihinh.exe
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\bin\Debug\net9.0\exampleCacloaihinh.deps.json
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\bin\Debug\net9.0\exampleCacloaihinh.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\bin\Debug\net9.0\exampleCacloaihinh.dll
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\bin\Debug\net9.0\exampleCacloaihinh.pdb
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\exampleCacloaihinh.dll
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\refint\exampleCacloaihinh.dll
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\exampleCacloaihinh.pdb
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\exampleCacloaihinh.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\exampleCacloaihinh\obj\Debug\net9.0\ref\exampleCacloaihinh.dll

@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\examplewhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\examplewhile.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\examplewhile.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\examplewhile.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\examplewhile.sourcelink.json
+D:\BAITAP\EXAMPLE\example\examplewhile\bin\Debug\net9.0\examplewhile.exe
+D:\BAITAP\EXAMPLE\example\examplewhile\bin\Debug\net9.0\examplewhile.deps.json
+D:\BAITAP\EXAMPLE\example\examplewhile\bin\Debug\net9.0\examplewhile.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\examplewhile\bin\Debug\net9.0\examplewhile.dll
+D:\BAITAP\EXAMPLE\example\examplewhile\bin\Debug\net9.0\examplewhile.pdb
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\examplewhile.dll
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\refint\examplewhile.dll
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\examplewhile.pdb
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\examplewhile.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\examplewhile\obj\Debug\net9.0\ref\examplewhile.dll

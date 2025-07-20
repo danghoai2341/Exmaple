@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\bin\Debug\net9.0\examplePTRBACNHAT.exe
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\bin\Debug\net9.0\examplePTRBACNHAT.deps.json
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\bin\Debug\net9.0\examplePTRBACNHAT.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\bin\Debug\net9.0\examplePTRBACNHAT.dll
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\bin\Debug\net9.0\examplePTRBACNHAT.pdb
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\examplePTRBACNHAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\examplePTRBACNHAT.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\examplePTRBACNHAT.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\examplePTRBACNHAT.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\examplePTRBACNHAT.sourcelink.json
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\examplePTRBACNHAT.dll
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\refint\examplePTRBACNHAT.dll
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\examplePTRBACNHAT.pdb
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\examplePTRBACNHAT.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\examplePTRBACNHAT\obj\Debug\net9.0\ref\examplePTRBACNHAT.dll

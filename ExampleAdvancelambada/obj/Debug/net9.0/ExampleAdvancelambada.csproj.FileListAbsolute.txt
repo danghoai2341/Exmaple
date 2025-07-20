@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\bin\Debug\net9.0\ExampleAdvancelambada.exe
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\bin\Debug\net9.0\ExampleAdvancelambada.deps.json
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\bin\Debug\net9.0\ExampleAdvancelambada.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\bin\Debug\net9.0\ExampleAdvancelambada.dll
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\bin\Debug\net9.0\ExampleAdvancelambada.pdb
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\ExampleAdvancelambada.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\ExampleAdvancelambada.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\ExampleAdvancelambada.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\ExampleAdvancelambada.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\ExampleAdvancelambada.sourcelink.json
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\ExampleAdvancelambada.dll
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\refint\ExampleAdvancelambada.dll
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\ExampleAdvancelambada.pdb
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\ExampleAdvancelambada.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\ExampleAdvancelambada\obj\Debug\net9.0\ref\ExampleAdvancelambada.dll

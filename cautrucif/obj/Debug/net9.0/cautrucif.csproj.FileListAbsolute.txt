@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\cautrucif\bin\Debug\net9.0\cautrucif.exe
+D:\BAITAP\EXAMPLE\example\cautrucif\bin\Debug\net9.0\cautrucif.deps.json
+D:\BAITAP\EXAMPLE\example\cautrucif\bin\Debug\net9.0\cautrucif.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\cautrucif\bin\Debug\net9.0\cautrucif.dll
+D:\BAITAP\EXAMPLE\example\cautrucif\bin\Debug\net9.0\cautrucif.pdb
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\cautrucif.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\cautrucif.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\cautrucif.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\cautrucif.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\cautrucif.sourcelink.json
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\cautrucif.dll
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\refint\cautrucif.dll
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\cautrucif.pdb
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\cautrucif.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\cautrucif\obj\Debug\net9.0\ref\cautrucif.dll

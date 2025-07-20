@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\bin\Debug\net9.0\ExampleCheckage.exe
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\bin\Debug\net9.0\ExampleCheckage.deps.json
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\bin\Debug\net9.0\ExampleCheckage.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\bin\Debug\net9.0\ExampleCheckage.dll
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\bin\Debug\net9.0\ExampleCheckage.pdb
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\ExampleCheckage.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\ExampleCheckage.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\ExampleCheckage.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\ExampleCheckage.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\ExampleCheckage.sourcelink.json
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\ExampleCheckage.dll
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\refint\ExampleCheckage.dll
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\ExampleCheckage.pdb
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\ExampleCheckage.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\ExampleCheckage\obj\Debug\net9.0\ref\ExampleCheckage.dll

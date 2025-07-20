@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\exampleswitch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\exampleswitch-case.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\exampleswitch-case.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\exampleswitch-case.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\exampleswitch-case.sourcelink.json
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\bin\Debug\net9.0\exampleswitch-case.exe
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\bin\Debug\net9.0\exampleswitch-case.deps.json
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\bin\Debug\net9.0\exampleswitch-case.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\bin\Debug\net9.0\exampleswitch-case.dll
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\bin\Debug\net9.0\exampleswitch-case.pdb
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\exampleswitch-case.dll
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\refint\exampleswitch-case.dll
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\exampleswitch-case.pdb
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\exampleswitch-case.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\exampleswitch-case\obj\Debug\net9.0\ref\exampleswitch-case.dll
