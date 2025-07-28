@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\bin\Debug\net9.0\exmapleArrayTwoSum.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\bin\Debug\net9.0\exmapleArrayTwoSum.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\bin\Debug\net9.0\exmapleArrayTwoSum.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\bin\Debug\net9.0\exmapleArrayTwoSum.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\bin\Debug\net9.0\exmapleArrayTwoSum.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\exmapleArrayTwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\exmapleArrayTwoSum.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\exmapleArrayTwoSum.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\exmapleArrayTwoSum.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\exmapleArrayTwoSum.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\exmapleArrayTwoSum.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\refint\exmapleArrayTwoSum.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\exmapleArrayTwoSum.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\exmapleArrayTwoSum.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwoSum\obj\Debug\net9.0\ref\exmapleArrayTwoSum.dll

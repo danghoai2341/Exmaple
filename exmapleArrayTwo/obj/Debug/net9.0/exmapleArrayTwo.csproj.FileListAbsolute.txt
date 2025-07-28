@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\bin\Debug\net9.0\exmapleArrayTwo.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\bin\Debug\net9.0\exmapleArrayTwo.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\bin\Debug\net9.0\exmapleArrayTwo.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\bin\Debug\net9.0\exmapleArrayTwo.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\bin\Debug\net9.0\exmapleArrayTwo.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\exmapleArrayTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\exmapleArrayTwo.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\exmapleArrayTwo.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\exmapleArrayTwo.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\exmapleArrayTwo.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\exmapleArrayTwo.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\refint\exmapleArrayTwo.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\exmapleArrayTwo.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\exmapleArrayTwo.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleArrayTwo\obj\Debug\net9.0\ref\exmapleArrayTwo.dll

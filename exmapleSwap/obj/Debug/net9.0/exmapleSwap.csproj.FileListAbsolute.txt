@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\bin\Debug\net9.0\exmapleSwap.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\bin\Debug\net9.0\exmapleSwap.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\bin\Debug\net9.0\exmapleSwap.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\bin\Debug\net9.0\exmapleSwap.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\bin\Debug\net9.0\exmapleSwap.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\exmapleSwap.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\exmapleSwap.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\exmapleSwap.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\exmapleSwap.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\exmapleSwap.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\exmapleSwap.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\refint\exmapleSwap.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\exmapleSwap.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\exmapleSwap.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleSwap\obj\Debug\net9.0\ref\exmapleSwap.dll
