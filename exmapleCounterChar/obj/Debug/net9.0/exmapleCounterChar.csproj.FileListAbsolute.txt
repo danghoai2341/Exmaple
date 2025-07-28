@@ -1,0 +1,5 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleCounterChar\obj\Debug\net9.0\exmapleCounterChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleCounterChar\obj\Debug\net9.0\exmapleCounterChar.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleCounterChar\obj\Debug\net9.0\exmapleCounterChar.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleCounterChar\obj\Debug\net9.0\exmapleCounterChar.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exmapleCounterChar\obj\Debug\net9.0\exmapleCounterChar.sourcelink.json
