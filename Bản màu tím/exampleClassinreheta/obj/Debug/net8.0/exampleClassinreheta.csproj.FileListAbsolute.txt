@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\bin\Debug\net8.0\exampleClassinreheta.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\bin\Debug\net8.0\exampleClassinreheta.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\bin\Debug\net8.0\exampleClassinreheta.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\bin\Debug\net8.0\exampleClassinreheta.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\bin\Debug\net8.0\exampleClassinreheta.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\exampleClassinreheta.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\exampleClassinreheta.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\exampleClassinreheta.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\exampleClassinreheta.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\exampleClassinreheta.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\exampleClassinreheta.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\refint\exampleClassinreheta.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\exampleClassinreheta.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\exampleClassinreheta.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleClassinreheta\exampleClassinreheta\obj\Debug\net8.0\ref\exampleClassinreheta.dll

@@ -1,0 +1,20 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\Bản màu tím\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\Bản màu tím\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\Bản màu tím\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\Bản màu tím\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\Bản màu tím\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\bin\Debug\net8.0\ExmapleSystemoderby.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\bin\Debug\net8.0\ExmapleSystemoderby.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\bin\Debug\net8.0\ExmapleSystemoderby.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\bin\Debug\net8.0\ExmapleSystemoderby.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\bin\Debug\net8.0\ExmapleSystemoderby.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\refint\ExmapleSystemoderby.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ExmapleSystemoderby.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\ExmapleSystemoderby\ExmapleSystemoderby\obj\Debug\net8.0\ref\ExmapleSystemoderby.dll

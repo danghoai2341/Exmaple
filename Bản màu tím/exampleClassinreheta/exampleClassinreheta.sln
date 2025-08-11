@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exampleClassinreheta", "exampleClassinreheta\exampleClassinreheta.csproj", "{ABC14707-76AF-40AB-81B7-C70DF87F00E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC14707-76AF-40AB-81B7-C70DF87F00E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC14707-76AF-40AB-81B7-C70DF87F00E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC14707-76AF-40AB-81B7-C70DF87F00E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC14707-76AF-40AB-81B7-C70DF87F00E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {526F0CA4-E05C-46CA-9CC7-9694102348D4}
+	EndGlobalSection
+EndGlobal

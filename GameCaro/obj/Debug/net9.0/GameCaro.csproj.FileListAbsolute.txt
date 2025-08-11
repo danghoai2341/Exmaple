@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\bin\Debug\net9.0\GameCaro.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\bin\Debug\net9.0\GameCaro.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\bin\Debug\net9.0\GameCaro.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\bin\Debug\net9.0\GameCaro.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\bin\Debug\net9.0\GameCaro.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\GameCaro.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\GameCaro.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\GameCaro.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\GameCaro.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\GameCaro.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\GameCaro.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\refint\GameCaro.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\GameCaro.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\GameCaro.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\GameCaro\obj\Debug\net9.0\ref\GameCaro.dll

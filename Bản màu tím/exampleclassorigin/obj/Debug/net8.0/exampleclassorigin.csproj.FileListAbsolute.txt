@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\bin\Debug\net8.0\exampleclassorigin.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\bin\Debug\net8.0\exampleclassorigin.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\bin\Debug\net8.0\exampleclassorigin.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\bin\Debug\net8.0\exampleclassorigin.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\bin\Debug\net8.0\exampleclassorigin.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\exampleclassorigin.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\exampleclassorigin.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\exampleclassorigin.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\exampleclassorigin.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\exampleclassorigin.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\exampleclassorigin.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\refint\exampleclassorigin.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\exampleclassorigin.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\exampleclassorigin.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleclassorigin\exampleclassorigin\obj\Debug\net8.0\ref\exampleclassorigin.dll

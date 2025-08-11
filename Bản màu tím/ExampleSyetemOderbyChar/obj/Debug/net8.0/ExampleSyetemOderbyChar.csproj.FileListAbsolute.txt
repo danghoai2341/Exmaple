@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\bin\Debug\net8.0\ExampleSyetemOderbyChar.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\bin\Debug\net8.0\ExampleSyetemOderbyChar.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\bin\Debug\net8.0\ExampleSyetemOderbyChar.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\bin\Debug\net8.0\ExampleSyetemOderbyChar.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\bin\Debug\net8.0\ExampleSyetemOderbyChar.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\ExampleSyetemOderbyChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\ExampleSyetemOderbyChar.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\ExampleSyetemOderbyChar.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\ExampleSyetemOderbyChar.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\ExampleSyetemOderbyChar.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\ExampleSyetemOderbyChar.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\refint\ExampleSyetemOderbyChar.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\ExampleSyetemOderbyChar.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\ExampleSyetemOderbyChar.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\ExampleSyetemOderbyChar\ExampleSyetemOderbyChar\obj\Debug\net8.0\ref\ExampleSyetemOderbyChar.dll

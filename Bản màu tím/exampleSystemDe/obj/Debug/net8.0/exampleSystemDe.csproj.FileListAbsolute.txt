@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\bin\Debug\net8.0\exampleSystemDe.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\bin\Debug\net8.0\exampleSystemDe.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\bin\Debug\net8.0\exampleSystemDe.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\bin\Debug\net8.0\exampleSystemDe.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\bin\Debug\net8.0\exampleSystemDe.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\exampleSystemDe.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\exampleSystemDe.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\exampleSystemDe.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\exampleSystemDe.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\exampleSystemDe.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\exampleSystemDe.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\refint\exampleSystemDe.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\exampleSystemDe.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\exampleSystemDe.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\exampleSystemDe\exampleSystemDe\obj\Debug\net8.0\ref\exampleSystemDe.dll

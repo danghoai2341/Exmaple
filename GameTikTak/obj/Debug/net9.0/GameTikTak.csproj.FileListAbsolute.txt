@@ -1,0 +1,15 @@
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\bin\Debug\net9.0\GameTikTak.exe
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\bin\Debug\net9.0\GameTikTak.deps.json
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\bin\Debug\net9.0\GameTikTak.runtimeconfig.json
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\bin\Debug\net9.0\GameTikTak.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\bin\Debug\net9.0\GameTikTak.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\GameTikTak.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\GameTikTak.AssemblyInfoInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\GameTikTak.AssemblyInfo.cs
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\GameTikTak.csproj.CoreCompileInputs.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\GameTikTak.sourcelink.json
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\GameTikTak.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\refint\GameTikTak.dll
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\GameTikTak.pdb
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\GameTikTak.genruntimeconfig.cache
+D:\BAITAP\EXAMPLE\example\Exmaple\GameTikTak\obj\Debug\net9.0\ref\GameTikTak.dll

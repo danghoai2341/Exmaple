@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BAITAP\\EXAMPLE\\example\\Exmaple\\exampleMethodOverriding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22A9FAF6-57D1-44BE-9E89-A448018BF4B7}|exampleMethodOverriding\\exampleMethodOverriding.csproj|d:\\baitap\\example\\example\\exmaple\\examplemethodoverriding\\examplemethodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A9FAF6-57D1-44BE-9E89-A448018BF4B7}|exampleMethodOverriding\\exampleMethodOverriding.csproj|solutionrelative:examplemethodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BAITAP\\EXAMPLE\\example\\Exmaple\\exampleMethodOverriding\\exampleMethodOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "exampleMethodOverriding\\Program.cs",
+              "ToolTip": "D:\\BAITAP\\EXAMPLE\\example\\Exmaple\\exampleMethodOverriding\\exampleMethodOverriding\\Program.cs",
+              "RelativeToolTip": "exampleMethodOverriding\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:37:57.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
